@@ -6,6 +6,7 @@
 
     async function login() {
         try {
+            goto('/dashboard');
             //firebase.auth().signInWithEmailAndPassword(email, password).then((res) => {
             //    goto('/dashboard');
             //});

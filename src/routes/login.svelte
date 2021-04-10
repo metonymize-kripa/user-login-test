@@ -7,8 +7,8 @@
     async function login() {
         try {
             //firebase.auth().signInWithEmailAndPassword(email, password).then((res) => {
-                goto('/dashboard');
-            });
+            //    goto('/dashboard');
+            //});
         } catch(e) {
             let message = e.message || e;
             console.log("Something went wrong:", message);

@@ -19,6 +19,7 @@
 <h1>This is our protected dashboard! Only visible when you are logged in with Firebase</h1> 
 <button on:click={logout}>Logout</button>
 
+<svg>
 <defs>
   <style type='text/css'><![CDATA[
     .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {

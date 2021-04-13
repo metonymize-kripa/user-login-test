@@ -3,28 +3,23 @@
 		text-align: center;
 		margin: 0 auto;
 	}
-
 	h1 {
 		font-size: 2.8em;
 		text-transform: uppercase;
 		font-weight: 700;
 		margin: 0 0 0.5em 0;
 	}
-
 	figure {
 		margin: 0 0 1em 0;
 	}
-
 	img {
 		width: 100%;
 		max-width: 400px;
 		margin: 0 0 1em 0;
 	}
-
 	p {
 		margin: 1em auto;
 	}
-
 	@media (min-width: 480px) {
 		h1 {
 			font-size: 4em;
@@ -1715,9 +1710,7 @@
 <text x='90.06' y='42.78' style='font-size: 18.00px; font-weight: bold; font-family: Arial Narrow;' textLength='318.17px' lengthAdjust='spacingAndGlyphs'>Option Implied Price Distribution (Illustrative)</text>
 </g>
 </svg>
-
 <h1>Sketch of what an RND is trying to convey</h1>
-
 <svg height="360pt" version="1.1" viewBox="0 0 540 360" width="540pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
   <style type="text/css">

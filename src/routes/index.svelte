@@ -36,7 +36,7 @@
 	<title>Sapper project template</title>
 </svelte:head>
 
-<h1>Sketch of what an RND for GME might look like</h1>
+<h1>Sketch of what an RND is trying to convey</h1>
 
 <svg height="360pt" version="1.1" viewBox="0 0 540 360" width="540pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
@@ -475,10 +475,10 @@ L 53.67562 -303.059322
 L 52.282583 -303.04567 
 L 50.889545 -303.035496 
 z
-" id="mc4e9e8617a" style="stroke:#90c1c6;stroke-width:1.5;"/>
+" id="m215574077c" style="stroke:#90c1c6;stroke-width:1.5;"/>
     </defs>
     <g>
-     <use style="fill:#90c1c6;stroke:#90c1c6;stroke-width:1.5;" x="0" xlink:href="#mc4e9e8617a" y="360"/>
+     <use style="fill:#90c1c6;stroke:#90c1c6;stroke-width:1.5;" x="0" xlink:href="#m215574077c" y="360"/>
     </g>
    </g>
    <g id="line2d_1">
@@ -1098,10 +1098,10 @@ L 69.276813 -273.014343
 L 67.929482 -272.997835 
 L 66.582152 -272.985745 
 z
-" id="maed10e1e88" style="stroke:#7eb1bc;stroke-width:1.5;"/>
+" id="m26e08e9532" style="stroke:#7eb1bc;stroke-width:1.5;"/>
     </defs>
     <g>
-     <use style="fill:#7eb1bc;stroke:#7eb1bc;stroke-width:1.5;" x="0" xlink:href="#maed10e1e88" y="360"/>
+     <use style="fill:#7eb1bc;stroke:#7eb1bc;stroke-width:1.5;" x="0" xlink:href="#m26e08e9532" y="360"/>
     </g>
    </g>
    <g id="line2d_3">
@@ -1617,10 +1617,10 @@ L 113.576491 -242.95989
 L 112.293635 -242.944797 
 L 111.010778 -242.933563 
 z
-" id="m62496e2ddd" style="stroke:#6ea0b1;stroke-width:1.5;"/>
+" id="m1a9ecc752f" style="stroke:#6ea0b1;stroke-width:1.5;"/>
     </defs>
     <g>
-     <use style="fill:#6ea0b1;stroke:#6ea0b1;stroke-width:1.5;" x="0" xlink:href="#m62496e2ddd" y="360"/>
+     <use style="fill:#6ea0b1;stroke:#6ea0b1;stroke-width:1.5;" x="0" xlink:href="#m1a9ecc752f" y="360"/>
     </g>
    </g>
    <g id="line2d_5">
@@ -2171,10 +2171,10 @@ L 143.417697 -212.928862
 L 142.206967 -212.906251 
 L 140.996236 -212.889938 
 z
-" id="mb18633bf7f" style="stroke:#6090a7;stroke-width:1.5;"/>
+" id="m6d481e2b67" style="stroke:#6090a7;stroke-width:1.5;"/>
     </defs>
     <g>
-     <use style="fill:#6090a7;stroke:#6090a7;stroke-width:1.5;" x="0" xlink:href="#mb18633bf7f" y="360"/>
+     <use style="fill:#6090a7;stroke:#6090a7;stroke-width:1.5;" x="0" xlink:href="#m6d481e2b67" y="360"/>
     </g>
    </g>
    <g id="line2d_7">
@@ -2722,10 +2722,10 @@ L 123.184106 -182.852168
 L 121.718078 -182.837365 
 L 120.25205 -182.8265 
 z
-" id="mdbf2929523" style="stroke:#547d9a;stroke-width:1.5;"/>
+" id="mf08e9683e5" style="stroke:#547d9a;stroke-width:1.5;"/>
     </defs>
     <g>
-     <use style="fill:#547d9a;stroke:#547d9a;stroke-width:1.5;" x="0" xlink:href="#mdbf2929523" y="360"/>
+     <use style="fill:#547d9a;stroke:#547d9a;stroke-width:1.5;" x="0" xlink:href="#mf08e9683e5" y="360"/>
     </g>
    </g>
    <g id="line2d_9">
@@ -3274,10 +3274,10 @@ L 172.378707 -152.807397
 L 170.974707 -152.789903 
 L 169.570708 -152.777229 
 z
-" id="mb482e65707" style="stroke:#486b8b;stroke-width:1.5;"/>
+" id="m10c6204c91" style="stroke:#486b8b;stroke-width:1.5;"/>
     </defs>
     <g>
-     <use style="fill:#486b8b;stroke:#486b8b;stroke-width:1.5;" x="0" xlink:href="#mb482e65707" y="360"/>
+     <use style="fill:#486b8b;stroke:#486b8b;stroke-width:1.5;" x="0" xlink:href="#m10c6204c91" y="360"/>
     </g>
    </g>
    <g id="line2d_11">
@@ -3802,10 +3802,10 @@ L 168.314503 -122.756841
 L 166.789013 -122.737657 
 L 165.263523 -122.724083 
 z
-" id="m057beca358" style="stroke:#3e5a7c;stroke-width:1.5;"/>
+" id="mf9fc80001a" style="stroke:#3e5a7c;stroke-width:1.5;"/>
     </defs>
     <g>
-     <use style="fill:#3e5a7c;stroke:#3e5a7c;stroke-width:1.5;" x="0" xlink:href="#m057beca358" y="360"/>
+     <use style="fill:#3e5a7c;stroke:#3e5a7c;stroke-width:1.5;" x="0" xlink:href="#mf9fc80001a" y="360"/>
     </g>
    </g>
    <g id="line2d_13">
@@ -4347,10 +4347,10 @@ L 220.109975 -92.775017
 L 218.738958 -92.733718 
 L 217.367942 -92.704503 
 z
-" id="m72e8ebd726" style="stroke:#334769;stroke-width:1.5;"/>
+" id="m182a030672" style="stroke:#334769;stroke-width:1.5;"/>
     </defs>
     <g>
-     <use style="fill:#334769;stroke:#334769;stroke-width:1.5;" x="0" xlink:href="#m72e8ebd726" y="360"/>
+     <use style="fill:#334769;stroke:#334769;stroke-width:1.5;" x="0" xlink:href="#m182a030672" y="360"/>
     </g>
    </g>
    <g id="line2d_15">
@@ -4878,10 +4878,10 @@ L 204.442425 -62.646858
 L 203.108659 -62.631143 
 L 201.774893 -62.619554 
 z
-" id="mfbf362acf2" style="stroke:#2a3656;stroke-width:1.5;"/>
+" id="m4f3fe0daf8" style="stroke:#2a3656;stroke-width:1.5;"/>
     </defs>
     <g>
-     <use style="fill:#2a3656;stroke:#2a3656;stroke-width:1.5;" x="0" xlink:href="#mfbf362acf2" y="360"/>
+     <use style="fill:#2a3656;stroke:#2a3656;stroke-width:1.5;" x="0" xlink:href="#m4f3fe0daf8" y="360"/>
     </g>
    </g>
    <g id="line2d_17">
@@ -5231,28 +5231,110 @@ z
      </g>
     </g>
     <g id="text_15">
-     <!-- x -->
+     <!-- Price -->
      <defs>
-      <path d="M 0.734375 0 
-L 19.671875 26.953125 
-L 2.15625 51.859375 
-L 13.140625 51.859375 
-L 21.09375 39.703125 
-Q 23.34375 36.234375 24.703125 33.890625 
-Q 26.859375 37.109375 28.65625 39.59375 
-L 37.40625 51.859375 
-L 47.90625 51.859375 
-L 29.984375 27.4375 
-L 49.265625 0 
-L 38.484375 0 
-L 27.828125 16.109375 
-L 25 20.453125 
-L 11.375 0 
+      <path d="M 7.71875 0 
+L 7.71875 71.578125 
+L 34.71875 71.578125 
+Q 41.84375 71.578125 45.609375 70.90625 
+Q 50.875 70.015625 54.4375 67.546875 
+Q 58.015625 65.09375 60.1875 60.640625 
+Q 62.359375 56.203125 62.359375 50.875 
+Q 62.359375 41.75 56.546875 35.421875 
+Q 50.734375 29.109375 35.546875 29.109375 
+L 17.1875 29.109375 
+L 17.1875 0 
 z
-" id="ArialMT-120"/>
+M 17.1875 37.546875 
+L 35.6875 37.546875 
+Q 44.875 37.546875 48.734375 40.96875 
+Q 52.59375 44.390625 52.59375 50.59375 
+Q 52.59375 55.078125 50.3125 58.265625 
+Q 48.046875 61.46875 44.34375 62.5 
+Q 41.9375 63.140625 35.5 63.140625 
+L 17.1875 63.140625 
+z
+" id="ArialMT-80"/>
+      <path d="M 6.5 0 
+L 6.5 51.859375 
+L 14.40625 51.859375 
+L 14.40625 44 
+Q 17.4375 49.515625 20 51.265625 
+Q 22.5625 53.03125 25.640625 53.03125 
+Q 30.078125 53.03125 34.671875 50.203125 
+L 31.640625 42.046875 
+Q 28.421875 43.953125 25.203125 43.953125 
+Q 22.3125 43.953125 20.015625 42.21875 
+Q 17.71875 40.484375 16.75 37.40625 
+Q 15.28125 32.71875 15.28125 27.15625 
+L 15.28125 0 
+z
+" id="ArialMT-114"/>
+      <path d="M 6.640625 61.46875 
+L 6.640625 71.578125 
+L 15.4375 71.578125 
+L 15.4375 61.46875 
+z
+M 6.640625 0 
+L 6.640625 51.859375 
+L 15.4375 51.859375 
+L 15.4375 0 
+z
+" id="ArialMT-105"/>
+      <path d="M 40.4375 19 
+L 49.078125 17.875 
+Q 47.65625 8.9375 41.8125 3.875 
+Q 35.984375 -1.171875 27.484375 -1.171875 
+Q 16.84375 -1.171875 10.375 5.78125 
+Q 3.90625 12.75 3.90625 25.734375 
+Q 3.90625 34.125 6.6875 40.421875 
+Q 9.46875 46.734375 15.15625 49.875 
+Q 20.84375 53.03125 27.546875 53.03125 
+Q 35.984375 53.03125 41.359375 48.75 
+Q 46.734375 44.484375 48.25 36.625 
+L 39.703125 35.296875 
+Q 38.484375 40.53125 35.375 43.15625 
+Q 32.28125 45.796875 27.875 45.796875 
+Q 21.234375 45.796875 17.078125 41.03125 
+Q 12.9375 36.28125 12.9375 25.984375 
+Q 12.9375 15.53125 16.9375 10.796875 
+Q 20.953125 6.0625 27.390625 6.0625 
+Q 32.5625 6.0625 36.03125 9.234375 
+Q 39.5 12.40625 40.4375 19 
+z
+" id="ArialMT-99"/>
+      <path d="M 42.09375 16.703125 
+L 51.171875 15.578125 
+Q 49.03125 7.625 43.21875 3.21875 
+Q 37.40625 -1.171875 28.375 -1.171875 
+Q 17 -1.171875 10.328125 5.828125 
+Q 3.65625 12.84375 3.65625 25.484375 
+Q 3.65625 38.578125 10.390625 45.796875 
+Q 17.140625 53.03125 27.875 53.03125 
+Q 38.28125 53.03125 44.875 45.953125 
+Q 51.46875 38.875 51.46875 26.03125 
+Q 51.46875 25.25 51.421875 23.6875 
+L 12.75 23.6875 
+Q 13.234375 15.140625 17.578125 10.59375 
+Q 21.921875 6.0625 28.421875 6.0625 
+Q 33.25 6.0625 36.671875 8.59375 
+Q 40.09375 11.140625 42.09375 16.703125 
+z
+M 13.234375 30.90625 
+L 42.1875 30.90625 
+Q 41.609375 37.453125 38.875 40.71875 
+Q 34.671875 45.796875 27.984375 45.796875 
+Q 21.921875 45.796875 17.796875 41.75 
+Q 13.671875 37.703125 13.234375 30.90625 
+z
+" id="ArialMT-101"/>
      </defs>
-     <g style="fill:#262626;" transform="translate(270.985 359.609219)scale(0.12 -0.12)">
-      <use xlink:href="#ArialMT-120"/>
+     <g style="fill:#262626;" transform="translate(260.315313 359.609219)scale(0.12 -0.12)">
+      <use xlink:href="#ArialMT-80"/>
+      <use x="66.699219" xlink:href="#ArialMT-114"/>
+      <use x="100" xlink:href="#ArialMT-105"/>
+      <use x="122.216797" xlink:href="#ArialMT-99"/>
+      <use x="172.216797" xlink:href="#ArialMT-101"/>
      </g>
     </g>
    </g>
@@ -5662,10 +5744,10 @@ L 215.716234 -32.601785
 L 214.287989 -32.582375 
 L 212.859744 -32.568539 
 z
-" id="mf333bff0e4" style="stroke:#1f253f;stroke-width:1.5;"/>
+" id="mcd0744dd2f" style="stroke:#1f253f;stroke-width:1.5;"/>
     </defs>
     <g>
-     <use style="fill:#1f253f;stroke:#1f253f;stroke-width:1.5;" x="0" xlink:href="#mf333bff0e4" y="360"/>
+     <use style="fill:#1f253f;stroke:#1f253f;stroke-width:1.5;" x="0" xlink:href="#mcd0744dd2f" y="360"/>
     </g>
    </g>
    <g id="line2d_19">

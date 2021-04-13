@@ -34,7 +34,7 @@
 <h1>Sketch of what an RND is trying to convey</h1>
 
 <h2>Option 1: Convey historical daily price distribution to contextualize implied price distribution by future expiry/month</h2>
-<img src="ridge-heat-template.jpeg" width="100%" alt="Monthly price distribution historical Vs options implied">
+<img src="ridge-heat-template.png" width="100%" alt="Monthly price distribution historical Vs options implied">
 
 <h2>Option 2: Convey implied price distribution by future expiry only</h2>
 <svg height="360pt" version="1.1" viewBox="0 0 540 360" width="540pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
